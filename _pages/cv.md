@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, University of Oxford, 2025 (expected)
+* Ph.D in Statistics, University of Oxford, 2024 (expected)
 
 Work experience
 ======
